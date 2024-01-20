@@ -21,7 +21,7 @@
     "url": "https://github.com/bymustfa/get-similar-color"
   },
   "main": "dist/index.js",
-  "module": "dist/index.esm.js",
+  "module": "dist/index.d.js",
   "license": "MIT",
   "scripts": {
     "start": "tsc && node dist/index.js",
